@@ -1,4 +1,5 @@
 # PowerShell
+Voici donc un petit (ou moyen) cours sur ce qu'est PowerShell, ce qu'il était avant maintenant, et ce qu'il nous permet déssormais d'accomplir.
 
 ## Sommaire
 
