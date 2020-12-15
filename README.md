@@ -5,4 +5,4 @@ PowerShell est un langage de script fourni par Windows PowerShell, paru le 14 no
 
 ## Sommaire
 
-[Intro](https://github.com/KillDhesse/PowerShell/blob/main/Cours_Linux/intro.md)
+[Introduction](https://github.com/KillDhesse/PowerShell/blob/main/Cours_Linux/intro.md)
